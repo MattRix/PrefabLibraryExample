@@ -9,3 +9,5 @@ Any prefab with a name that starts with "_" will be ignored and not added to the
 Any subfolders of the _Prefabs folder will be turned into arrays, where the type matches the items in the folder. I use this feature a lot in my own games, for example to populate a list of a bunch of textures. 
 
 Let me know if you have any questions or run into any issues via my twitter @Mattrix. 
+
+See also, a more advanced prefab library generator built upon this project by @BSChad: https://gist.github.com/BSChad/fb778623c2f5da9b470ae18a66489a3d
